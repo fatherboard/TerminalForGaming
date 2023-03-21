@@ -1,7 +1,7 @@
 {
     "Header": {
         "Comment": "All values are metric (mm)",
-        "CreationDate": "2023-03-12T15:07:08Z",
+        "CreationDate": "2023-03-21T21:22:22Z",
         "GenerationSoftware": {
             "Application": "Fusion 360 Electronics",
             "Vendor": "Autodesk",
@@ -13,12 +13,12 @@
         "BoardThickness": 1.57,
         "LayerNumber": 2,
         "Name": {
-            "ProjectId": "PCB v44"
+            "ProjectId": "PCB v45"
         },
         "Owner": "Hugo Ribeiro <rapiteu@hotmail.com>",
         "Size": {
             "X": 255,
-            "Y": 75
+            "Y": 73
         }
     }
 }
