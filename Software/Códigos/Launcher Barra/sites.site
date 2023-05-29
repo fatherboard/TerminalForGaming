@@ -1,0 +1,9 @@
+ #/usr/bin/steamlink #iconoSteam2.png
+ #firefox https://www.xbox.com/play #iconoCloud1.png
+ #firefox https://www.playstation.com/en-us/ps-plus/getting-started/ #iconoPlay1.png
+ #firefox https://play.geforcenow.com/mall/ #iconoNvidia1.png
+ #/usr/bin/retroPie #iconoRetroPie1.png
+ #/usr/bin/chromium-browser #iconoChrome1.png
+ #firefox https://www.youtube.com/?gl=ES&hl=es #iconoYoutube1.png
+ #sudo python3 /home/pi/Desktop/settings.py #iconoSettings2.png
+ #sudo python3 /home/pi/Desktop/settings.py #iconoSettings2.png

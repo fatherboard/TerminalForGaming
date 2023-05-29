@@ -1,0 +1,3 @@
+ #sudo python3 /home/pi/Desktop/RelaxMode.py #iconoRelax.png
+ #sudo python3 /home/pi/Desktop/BoostMode.py #iconoBoost.png
+ #sudo python3 /home/pi/Desktop/HighPerf.py #iconoPerf.png
