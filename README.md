@@ -1,5 +1,5 @@
 <p align="center">
-   <img style="width: 50%" src="https://i.imgur.com/79RoUj8.jpeg"/>
+   <img style="width: 70%" src="https://i.imgur.com/vexdXwc.jpg"/>
 </p>
 
 # TerminalForGaming
